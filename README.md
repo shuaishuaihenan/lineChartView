@@ -26,3 +26,4 @@ import "UIColor+Change.h"
 
     [_chartView  reDrawChartLine];
     
+![Aaron Swartz](https://github.com/shuaishuaihenan/lineChartView/raw/master/demo.png)    
